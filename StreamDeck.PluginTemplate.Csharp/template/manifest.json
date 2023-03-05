@@ -1,0 +1,40 @@
+{
+    "Actions": [
+      {
+        "Icon": "Images/icon",
+        "Name": "$(PluginName)Action",
+        "States": [
+          {
+            "Image": "Images/bg",
+            "TitleAlignment": "bottom",
+            "FontSize": "16"
+          }
+        ],
+        "SupportedInMultiActions": false,
+        "Tooltip": "Sample implementation with various display and behaviour settings.",
+        "UUID": "$(UUID).action",
+        "PropertyInspectorPath": "PropertyInspector/$(UUID).action/Index.html"
+      }
+    ],
+    "Author": "Your name",
+    "Description": "Sample implementation with various display and behaviour settings.",
+    "Name": "$(PluginName)",
+    "Icon": "Images/pluginIcon",
+    "URL": "https://mspi.es/",
+    "Version": "1.1",
+    "CodePath": "_StreamDeckPlugin_.exe",
+    "Category": "Your Plugin Category",
+    "CategoryIcon": "Images/categoryIcon",
+    "UUID": "$(UUID)",
+    "OS": [
+      {
+        "Platform": "windows",
+        "MinimumVersion": "10"
+      }
+    ],
+    "SDKVersion": 2,
+    "Software": {
+      "MinimumVersion": "4.1"
+    }
+  }
+  
