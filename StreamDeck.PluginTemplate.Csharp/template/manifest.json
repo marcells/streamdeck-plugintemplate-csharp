@@ -20,7 +20,7 @@
     "Description": "Sample implementation with various display and behaviour settings.",
     "Name": "$(PluginName)",
     "Icon": "Images/pluginIcon",
-    "URL": "https://mspi.es/",
+    "URL": "https://your-website.com/",
     "Version": "1.1",
     "CodePath": "_StreamDeckPlugin_.exe",
     "Category": "Your Plugin Category",
